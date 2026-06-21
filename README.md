@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rithika173/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/rithika173/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -23,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rithika173/Leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rithika173/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/rithika173/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
